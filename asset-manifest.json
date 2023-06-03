@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Plantii_Dashboard/static/css/main.07294e93.css",
+    "main.js": "/Plantii_Dashboard/static/js/main.6a4585cd.js",
+    "static/media/video.mp4": "/Plantii_Dashboard/static/media/video.77d1a2caf240a4f07b3c.mp4",
+    "static/media/image3.jpg": "/Plantii_Dashboard/static/media/image3.db0fde5a021070f1ab40.jpg",
+    "static/media/image2.jpg": "/Plantii_Dashboard/static/media/image2.57207d075505b8ff65d7.jpg",
+    "static/media/user.jpg": "/Plantii_Dashboard/static/media/user.535f3ce9035b66363fa1.jpg",
+    "index.html": "/Plantii_Dashboard/index.html",
+    "main.07294e93.css.map": "/Plantii_Dashboard/static/css/main.07294e93.css.map",
+    "main.6a4585cd.js.map": "/Plantii_Dashboard/static/js/main.6a4585cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07294e93.css",
+    "static/js/main.6a4585cd.js"
+  ]
+}
